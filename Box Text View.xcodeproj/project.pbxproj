@@ -11,6 +11,7 @@
 		FB7561B92C81BB6200A0A5A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7561B82C81BB6200A0A5A0 /* ContentView.swift */; };
 		FB7561BB2C81BB6300A0A5A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7561BA2C81BB6300A0A5A0 /* Assets.xcassets */; };
 		FB7561BF2C81BB6300A0A5A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7561BE2C81BB6300A0A5A0 /* Preview Assets.xcassets */; };
+		FB7561C62C81BB9500A0A5A0 /* BoxTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7561C52C81BB9500A0A5A0 /* BoxTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FB7561BA2C81BB6300A0A5A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB7561BC2C81BB6300A0A5A0 /* Box_Text_View.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Box_Text_View.entitlements; sourceTree = "<group>"; };
 		FB7561BE2C81BB6300A0A5A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB7561C52C81BB9500A0A5A0 /* BoxTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FB7561B62C81BB6200A0A5A0 /* Box_Text_ViewApp.swift */,
 				FB7561B82C81BB6200A0A5A0 /* ContentView.swift */,
+				FB7561C52C81BB9500A0A5A0 /* BoxTextView.swift */,
 				FB7561BA2C81BB6300A0A5A0 /* Assets.xcassets */,
 				FB7561BC2C81BB6300A0A5A0 /* Box_Text_View.entitlements */,
 				FB7561BD2C81BB6300A0A5A0 /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				FB7561B92C81BB6200A0A5A0 /* ContentView.swift in Sources */,
 				FB7561B72C81BB6200A0A5A0 /* Box_Text_ViewApp.swift in Sources */,
+				FB7561C62C81BB9500A0A5A0 /* BoxTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
